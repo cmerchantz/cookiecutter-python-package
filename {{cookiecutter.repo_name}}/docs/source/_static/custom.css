@@ -1,0 +1,11 @@
+/* Internal project references */
+.rst-content a.internal code.xref {
+	font-weight: bold;
+	color: #40a040;
+}
+
+/* References to external projects (e.g. from intersphinx) */
+.rst-content a.external code.xref {
+	font-weight: bold;
+	color: #2980B9;
+}
